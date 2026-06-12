@@ -1,0 +1,1118 @@
+[
+  {
+    "id": "legal_principles_chunk_0",
+    "text": "CURATED LEGAL PRINCIPLES \u2014 INDIAN CONSUMER LAW\n================================================\nSource: Landmark Supreme Court & NCDRC judgements\nScope: Consumer Protection Act 2019 | CPA 1986 | Legal Metrology Act 2009\nPrepared for: Academic Study & Legal Research\n================================================\n\nSECTION 1 \u2014 DEFINITION OF CONSUMER\n-------------------------------------",
+    "metadata": {
+      "source": "legal_principles",
+      "chunk_index": 0,
+      "doc_type": "judgements"
+    }
+  },
+  {
+    "id": "legal_principles_chunk_1",
+    "text": "PRINCIPLE 1\nPrinciple: A person who buys goods or hires services for consideration is a consumer. Commercial purpose buyers are excluded from the definition of consumer.\nLandmark Case: Laxmi Engineering Works v PSG Industrial Institute (1995) 3 SCC 583\nRelevant Section: Section 2(7) Consumer Protection Act 2019",
+    "metadata": {
+      "source": "legal_principles",
+      "chunk_index": 1,
+      "doc_type": "judgements"
+    }
+  },
+  {
+    "id": "legal_principles_chunk_2",
+    "text": "Key Ruling: The Supreme Court held that if goods are purchased for personal use and not for resale or commercial purpose, the buyer qualifies as a consumer. The test is the purpose of purchase, not the nature of goods.\nExam Relevance: High \u2014 frequently tested in definitions section",
+    "metadata": {
+      "source": "legal_principles",
+      "chunk_index": 2,
+      "doc_type": "judgements"
+    }
+  },
+  {
+    "id": "legal_principles_chunk_3",
+    "text": "PRINCIPLE 2\nPrinciple: A person who uses goods with the approval of the buyer is also a consumer, even if they did not pay for it.\nLandmark Case: Shyam Sunder v State of Rajasthan\nRelevant Section: Section 2(7)(i) Consumer Protection Act 2019\nKey Ruling: The beneficiary of goods or services, not just the purchaser, is entitled to consumer protection. This extends protection to family members and authorised users.\nExam Relevance: High",
+    "metadata": {
+      "source": "legal_principles",
+      "chunk_index": 3,
+      "doc_type": "judgements"
+    }
+  },
+  {
+    "id": "legal_principles_chunk_4",
+    "text": "PRINCIPLE 3\nPrinciple: An employer who purchases goods for use by employees does not qualify as a consumer if the purpose is commercial.\nLandmark Case: Kalpavruksha Charitable Trust v Toshniwal Brothers (1999)\nRelevant Section: Section 2(7) Consumer Protection Act 2019\nKey Ruling: The dominant purpose of purchase determines consumer status. Institutional buyers purchasing for business operations are excluded.\nExam Relevance: Medium",
+    "metadata": {
+      "source": "legal_principles",
+      "chunk_index": 4,
+      "doc_type": "judgements"
+    }
+  },
+  {
+    "id": "legal_principles_chunk_5",
+    "text": "PRINCIPLE 4\nPrinciple: A person availing services of a doctor, hospital, or medical professional for consideration is a consumer.\nLandmark Case: Indian Medical Association v V P Shantha (1995) 6 SCC 651\nRelevant Section: Section 2(7)(ii) Consumer Protection Act 2019\nKey Ruling: Medical services rendered for consideration fall within the ambit of consumer protection. This landmark ruling brought the entire medical profession under consumer jurisdiction. Free services at government hospitals are excluded.",
+    "metadata": {
+      "source": "legal_principles",
+      "chunk_index": 5,
+      "doc_type": "judgements"
+    }
+  },
+  {
+    "id": "legal_principles_chunk_6",
+    "text": "Exam Relevance: Very High \u2014 most cited medical negligence authority",
+    "metadata": {
+      "source": "legal_principles",
+      "chunk_index": 6,
+      "doc_type": "judgements"
+    }
+  },
+  {
+    "id": "legal_principles_chunk_7",
+    "text": "PRINCIPLE 5\nPrinciple: Students paying fees to educational institutions are consumers of educational services.\nLandmark Case: Maharshi Dayanand University v Surjit Kaur (2010) 11 SCC 159\nRelevant Section: Section 2(7) Consumer Protection Act 2019\nKey Ruling: Educational institutions providing services for fees are service providers and students are consumers. Deficiency in educational services is actionable under consumer law.\nExam Relevance: High",
+    "metadata": {
+      "source": "legal_principles",
+      "chunk_index": 7,
+      "doc_type": "judgements"
+    }
+  },
+  {
+    "id": "legal_principles_chunk_8",
+    "text": "SECTION 2 \u2014 DEFICIENCY IN SERVICE\n-------------------------------------",
+    "metadata": {
+      "source": "legal_principles",
+      "chunk_index": 8,
+      "doc_type": "judgements"
+    }
+  },
+  {
+    "id": "legal_principles_chunk_9",
+    "text": "PRINCIPLE 6\nPrinciple: Deficiency in service includes not just physical defects but also mental agony, harassment, and consequential losses suffered by the consumer.\nLandmark Case: Lucknow Development Authority v M K Gupta (1994) 1 SCC 243\nRelevant Section: Section 2(11) Consumer Protection Act 2019",
+    "metadata": {
+      "source": "legal_principles",
+      "chunk_index": 9,
+      "doc_type": "judgements"
+    }
+  },
+  {
+    "id": "legal_principles_chunk_10",
+    "text": "Key Ruling: The Supreme Court held that public authorities performing statutory functions are service providers. Compensation for mental agony and harassment is a legitimate head of relief under consumer law. This case established that housing boards and development authorities are liable as service providers.\nExam Relevance: Very High \u2014 foundational case on mental agony compensation",
+    "metadata": {
+      "source": "legal_principles",
+      "chunk_index": 10,
+      "doc_type": "judgements"
+    }
+  },
+  {
+    "id": "legal_principles_chunk_11",
+    "text": "PRINCIPLE 7\nPrinciple: Delay in delivery of possession of a flat by a builder constitutes deficiency in service.\nLandmark Case: Emaar MGF Land Ltd v Aftab Singh (2019) 12 SCC 751\nRelevant Section: Section 2(11) Consumer Protection Act 2019",
+    "metadata": {
+      "source": "legal_principles",
+      "chunk_index": 11,
+      "doc_type": "judgements"
+    }
+  },
+  {
+    "id": "legal_principles_chunk_12",
+    "text": "Key Ruling: The Supreme Court upheld NCDRC's ruling that real estate developers who delay possession are liable for deficiency in service. Consumers can claim compensation for delay, interest on deposited amounts, and mental agony. Arbitration clauses in builder-buyer agreements do not oust consumer forum jurisdiction.\nExam Relevance: Very High \u2014 landmark real estate consumer case",
+    "metadata": {
+      "source": "legal_principles",
+      "chunk_index": 12,
+      "doc_type": "judgements"
+    }
+  },
+  {
+    "id": "legal_principles_chunk_13",
+    "text": "PRINCIPLE 8\nPrinciple: Insurance companies cannot repudiate claims on technical or flimsy grounds. Repudiation must be based on valid, substantiated reasons.\nLandmark Case: LIC of India v Consumer Education and Research Centre (1995) 5 SCC 482\nRelevant Section: Section 2(11) Consumer Protection Act 2019",
+    "metadata": {
+      "source": "legal_principles",
+      "chunk_index": 13,
+      "doc_type": "judgements"
+    }
+  },
+  {
+    "id": "legal_principles_chunk_14",
+    "text": "Key Ruling: Insurance contracts are contracts of utmost good faith. Arbitrary repudiation of genuine claims constitutes deficiency in service. The burden of proving valid grounds for repudiation lies on the insurer.\nExam Relevance: High \u2014 core insurance consumer law principle",
+    "metadata": {
+      "source": "legal_principles",
+      "chunk_index": 14,
+      "doc_type": "judgements"
+    }
+  },
+  {
+    "id": "legal_principles_chunk_15",
+    "text": "PRINCIPLE 9\nPrinciple: A bank failing to honour a cheque without valid reason or making unauthorized deductions constitutes deficiency in service.\nLandmark Case: Punjab National Bank v K B Shah\nRelevant Section: Section 2(11) Consumer Protection Act 2019\nKey Ruling: Banking services rendered for charges and fees are consumer services. Negligent handling of accounts, wrongful dishonour, and unauthorized charges are deficiencies in banking service.\nExam Relevance: Medium",
+    "metadata": {
+      "source": "legal_principles",
+      "chunk_index": 15,
+      "doc_type": "judgements"
+    }
+  },
+  {
+    "id": "legal_principles_chunk_16",
+    "text": "PRINCIPLE 10\nPrinciple: Non-supply of electricity or irregular supply by electricity boards is deficiency in service.\nLandmark Case: Karnataka Power Transmission Corporation v Ashok Iron Works Pvt Ltd (2009) 3 SCC 240\nRelevant Section: Section 2(11) Consumer Protection Act 2019",
+    "metadata": {
+      "source": "legal_principles",
+      "chunk_index": 16,
+      "doc_type": "judgements"
+    }
+  },
+  {
+    "id": "legal_principles_chunk_17",
+    "text": "Key Ruling: Electricity boards and power distribution companies are service providers. Industrial and commercial consumers paying electricity charges are consumers. Defective supply and wrongful disconnection are actionable deficiencies.\nExam Relevance: High",
+    "metadata": {
+      "source": "legal_principles",
+      "chunk_index": 17,
+      "doc_type": "judgements"
+    }
+  },
+  {
+    "id": "legal_principles_chunk_18",
+    "text": "SECTION 3 \u2014 UNFAIR TRADE PRACTICES\n-------------------------------------",
+    "metadata": {
+      "source": "legal_principles",
+      "chunk_index": 18,
+      "doc_type": "judgements"
+    }
+  },
+  {
+    "id": "legal_principles_chunk_19",
+    "text": "PRINCIPLE 11\nPrinciple: False representation about the quality, quantity, standard, or grade of goods constitutes an unfair trade practice.\nLandmark Case: Hindustan Unilever Ltd v Rajasthan State Consumer Disputes Redressal Commission\nRelevant Section: Section 2(47) Consumer Protection Act 2019",
+    "metadata": {
+      "source": "legal_principles",
+      "chunk_index": 19,
+      "doc_type": "judgements"
+    }
+  },
+  {
+    "id": "legal_principles_chunk_20",
+    "text": "Key Ruling: Misleading advertisements that falsely describe product benefits or create false impressions about product quality are unfair trade practices. Manufacturers are liable even if the advertisement was prepared by an agency.\nExam Relevance: High",
+    "metadata": {
+      "source": "legal_principles",
+      "chunk_index": 20,
+      "doc_type": "judgements"
+    }
+  },
+  {
+    "id": "legal_principles_chunk_21",
+    "text": "PRINCIPLE 12\nPrinciple: Charging above MRP on packaged goods is an unfair trade practice and punishable under Legal Metrology Act.\nLandmark Case: Various NCDRC rulings on MRP overcharging\nRelevant Section: Section 2(47) CPA 2019 | Section 36 Legal Metrology Act 2009",
+    "metadata": {
+      "source": "legal_principles",
+      "chunk_index": 21,
+      "doc_type": "judgements"
+    }
+  },
+  {
+    "id": "legal_principles_chunk_22",
+    "text": "Key Ruling: The MRP printed on packaged goods is the maximum price inclusive of all taxes. Any charge above MRP is illegal regardless of location \u2014 including multiplexes, stadiums, and hotels for packaged goods. Penalty extends up to rupees one lakh for first offence under Legal Metrology Act.\nExam Relevance: Very High",
+    "metadata": {
+      "source": "legal_principles",
+      "chunk_index": 22,
+      "doc_type": "judgements"
+    }
+  },
+  {
+    "id": "legal_principles_chunk_23",
+    "text": "PRINCIPLE 13\nPrinciple: Bait and switch advertising \u2014 advertising goods at a low price without reasonable stock \u2014 is an unfair trade practice.\nLandmark Case: Director General of Investigation and Registration v Oswal Agro Mills\nRelevant Section: Section 2(47)(ii) Consumer Protection Act 2019\nKey Ruling: Advertising goods at a discounted price to attract consumers and then switching them to higher priced goods is a deceptive trade practice actionable under consumer law.\nExam Relevance: Medium",
+    "metadata": {
+      "source": "legal_principles",
+      "chunk_index": 23,
+      "doc_type": "judgements"
+    }
+  },
+  {
+    "id": "legal_principles_chunk_24",
+    "text": "PRINCIPLE 14\nPrinciple: Pyramid schemes and money circulation schemes constitute unfair trade practices.\nLandmark Case: Kuriachan Chacko v State of Kerala (2008) 6 SCC 54\nRelevant Section: Section 2(47) Consumer Protection Act 2019\nKey Ruling: Multi-level marketing schemes that primarily profit from recruitment rather than genuine product sales are deceptive and constitute unfair trade practices.\nExam Relevance: Medium\n\nSECTION 4 \u2014 JURISDICTION AND FORUMS\n-------------------------------------",
+    "metadata": {
+      "source": "legal_principles",
+      "chunk_index": 24,
+      "doc_type": "judgements"
+    }
+  },
+  {
+    "id": "legal_principles_chunk_25",
+    "text": "PRINCIPLE 15\nPrinciple: Consumer forums have jurisdiction even when a civil court remedy is available. Consumer protection law provides an additional remedy.\nLandmark Case: Secretary, Thirumurugan Cooperative Agricultural Credit Society v M Lalitha (2004) 1 SCC 305\nRelevant Section: Section 100 Consumer Protection Act 2019",
+    "metadata": {
+      "source": "legal_principles",
+      "chunk_index": 25,
+      "doc_type": "judgements"
+    }
+  },
+  {
+    "id": "legal_principles_chunk_26",
+    "text": "Key Ruling: The Consumer Protection Act provides a remedy in addition to, not in derogation of, remedies under other laws. A consumer can approach the consumer forum even if other legal remedies exist. The Act is a beneficial legislation to be construed liberally.\nExam Relevance: Very High \u2014 fundamental jurisdictional principle",
+    "metadata": {
+      "source": "legal_principles",
+      "chunk_index": 26,
+      "doc_type": "judgements"
+    }
+  },
+  {
+    "id": "legal_principles_chunk_27",
+    "text": "PRINCIPLE 16\nPrinciple: Pecuniary jurisdiction is determined by the value of goods or services and compensation claimed, not just the value of goods.\nLandmark Case: Sonic Surgical v National Insurance Co Ltd (2010) 1 SCC 135\nRelevant Section: Section 34, 47, 58 Consumer Protection Act 2019",
+    "metadata": {
+      "source": "legal_principles",
+      "chunk_index": 27,
+      "doc_type": "judgements"
+    }
+  },
+  {
+    "id": "legal_principles_chunk_28",
+    "text": "Key Ruling: The total value of claim including compensation determines which forum has jurisdiction. District Commission handles claims up to rupees one crore, State Commission up to rupees ten crore, and NCDRC above ten crore under CPA 2019.\nExam Relevance: Very High \u2014 pecuniary jurisdiction is standard exam topic",
+    "metadata": {
+      "source": "legal_principles",
+      "chunk_index": 28,
+      "doc_type": "judgements"
+    }
+  },
+  {
+    "id": "legal_principles_chunk_29",
+    "text": "PRINCIPLE 17\nPrinciple: Territorial jurisdiction lies where the opposite party resides, carries on business, or where the cause of action arises.\nLandmark Case: Sonic Surgical v National Insurance Co Ltd (2010)\nRelevant Section: Section 34(2) Consumer Protection Act 2019\nKey Ruling: A complainant can file at the place where the opposite party has its branch office, registered office, or where the transaction took place. Online transactions create jurisdiction at the consumer's location.",
+    "metadata": {
+      "source": "legal_principles",
+      "chunk_index": 29,
+      "doc_type": "judgements"
+    }
+  },
+  {
+    "id": "legal_principles_chunk_30",
+    "text": "Exam Relevance: High",
+    "metadata": {
+      "source": "legal_principles",
+      "chunk_index": 30,
+      "doc_type": "judgements"
+    }
+  },
+  {
+    "id": "legal_principles_chunk_31",
+    "text": "PRINCIPLE 18\nPrinciple: Arbitration clauses in consumer contracts do not bar jurisdiction of consumer forums.\nLandmark Case: Emaar MGF Land Ltd v Aftab Singh (2019) 12 SCC 751\nRelevant Section: Section 100 Consumer Protection Act 2019",
+    "metadata": {
+      "source": "legal_principles",
+      "chunk_index": 31,
+      "doc_type": "judgements"
+    }
+  },
+  {
+    "id": "legal_principles_chunk_32",
+    "text": "Key Ruling: Consumer forums are special tribunals created by a beneficial legislation. Arbitration agreements between builder and buyer cannot override the statutory right of a consumer to approach consumer forums. The right to approach consumer forum is a statutory right that cannot be contracted out.\nExam Relevance: Very High",
+    "metadata": {
+      "source": "legal_principles",
+      "chunk_index": 32,
+      "doc_type": "judgements"
+    }
+  },
+  {
+    "id": "legal_principles_chunk_33",
+    "text": "SECTION 5 \u2014 MEDICAL NEGLIGENCE\n-------------------------------------",
+    "metadata": {
+      "source": "legal_principles",
+      "chunk_index": 33,
+      "doc_type": "judgements"
+    }
+  },
+  {
+    "id": "legal_principles_chunk_34",
+    "text": "PRINCIPLE 19\nPrinciple: Medical negligence is determined by the standard of care expected of a reasonably competent medical professional in that field.\nLandmark Case: Jacob Mathew v State of Punjab (2005) 6 SCC 1\nRelevant Section: Section 2(11) Consumer Protection Act 2019",
+    "metadata": {
+      "source": "legal_principles",
+      "chunk_index": 34,
+      "doc_type": "judgements"
+    }
+  },
+  {
+    "id": "legal_principles_chunk_35",
+    "text": "Key Ruling: A doctor is not liable for negligence merely because treatment failed. The test is whether the doctor exercised the degree of care expected of an ordinarily competent professional. Error of judgement is not negligence. This case set the standard of proof for medical negligence in consumer cases.\nExam Relevance: Very High",
+    "metadata": {
+      "source": "legal_principles",
+      "chunk_index": 35,
+      "doc_type": "judgements"
+    }
+  },
+  {
+    "id": "legal_principles_chunk_36",
+    "text": "PRINCIPLE 20\nPrinciple: Hospitals are liable for negligence of their doctors and staff under the principle of vicarious liability.\nLandmark Case: Spring Meadows Hospital v Harjol Ahluwalia (1998) 4 SCC 39\nRelevant Section: Section 2(11) Consumer Protection Act 2019",
+    "metadata": {
+      "source": "legal_principles",
+      "chunk_index": 36,
+      "doc_type": "judgements"
+    }
+  },
+  {
+    "id": "legal_principles_chunk_37",
+    "text": "Key Ruling: A hospital employing doctors and nurses is vicariously liable for their negligent acts. Parents of a child who suffered permanent disability due to a nurse's negligence were held to be consumers. Compensation for future care needs of the disabled child was awarded.\nExam Relevance: Very High",
+    "metadata": {
+      "source": "legal_principles",
+      "chunk_index": 37,
+      "doc_type": "judgements"
+    }
+  },
+  {
+    "id": "legal_principles_chunk_38",
+    "text": "PRINCIPLE 21\nPrinciple: Lack of informed consent before a medical procedure constitutes deficiency in service.\nLandmark Case: Samira Kohli v Dr Prabha Manchanda (2008) 2 SCC 1\nRelevant Section: Section 2(11) Consumer Protection Act 2019\nKey Ruling: A doctor must obtain informed consent from the patient before performing any invasive procedure. Performing additional procedures without consent, even if medically beneficial, is a violation of patient autonomy and constitutes deficiency in service.",
+    "metadata": {
+      "source": "legal_principles",
+      "chunk_index": 38,
+      "doc_type": "judgements"
+    }
+  },
+  {
+    "id": "legal_principles_chunk_39",
+    "text": "Exam Relevance: High",
+    "metadata": {
+      "source": "legal_principles",
+      "chunk_index": 39,
+      "doc_type": "judgements"
+    }
+  },
+  {
+    "id": "legal_principles_chunk_40",
+    "text": "SECTION 6 \u2014 PRODUCT LIABILITY\n-------------------------------------",
+    "metadata": {
+      "source": "legal_principles",
+      "chunk_index": 40,
+      "doc_type": "judgements"
+    }
+  },
+  {
+    "id": "legal_principles_chunk_41",
+    "text": "PRINCIPLE 22\nPrinciple: A manufacturer is liable for harm caused by a defective product even without negligence \u2014 strict liability applies.\nLandmark Case: Hindustan Coca Cola Beverages v Puranlal Bhargava\nRelevant Section: Section 82-87 Consumer Protection Act 2019",
+    "metadata": {
+      "source": "legal_principles",
+      "chunk_index": 41,
+      "doc_type": "judgements"
+    }
+  },
+  {
+    "id": "legal_principles_chunk_42",
+    "text": "Key Ruling: CPA 2019 introduced a dedicated product liability chapter. A product seller or manufacturer is liable if the product contains a manufacturing defect, design defect, or inadequate instructions or warnings. The consumer need not prove negligence \u2014 proving the defect and harm is sufficient.\nExam Relevance: Very High \u2014 new chapter in CPA 2019",
+    "metadata": {
+      "source": "legal_principles",
+      "chunk_index": 42,
+      "doc_type": "judgements"
+    }
+  },
+  {
+    "id": "legal_principles_chunk_43",
+    "text": "PRINCIPLE 23\nPrinciple: A product seller who is not the manufacturer can also be held liable if they exercised substantial control over the product design or manufacturing.\nLandmark Case: Various NCDRC product liability rulings post CPA 2019\nRelevant Section: Section 84-85 Consumer Protection Act 2019\nKey Ruling: Product liability extends beyond manufacturers to include product service providers and product sellers who modified, marketed, or exercised control over defective products.",
+    "metadata": {
+      "source": "legal_principles",
+      "chunk_index": 43,
+      "doc_type": "judgements"
+    }
+  },
+  {
+    "id": "legal_principles_chunk_44",
+    "text": "Exam Relevance: Medium",
+    "metadata": {
+      "source": "legal_principles",
+      "chunk_index": 44,
+      "doc_type": "judgements"
+    }
+  },
+  {
+    "id": "legal_principles_chunk_45",
+    "text": "SECTION 7 \u2014 E-COMMERCE AND DIGITAL CONSUMERS\n-------------------------------------",
+    "metadata": {
+      "source": "legal_principles",
+      "chunk_index": 45,
+      "doc_type": "judgements"
+    }
+  },
+  {
+    "id": "legal_principles_chunk_46",
+    "text": "PRINCIPLE 24\nPrinciple: E-commerce platforms are liable for ensuring sellers on their platform comply with consumer protection laws.\nLandmark Case: Various NCDRC rulings on e-commerce liability\nRelevant Section: E-Commerce Rules 2020 | Section 2(47) CPA 2019",
+    "metadata": {
+      "source": "legal_principles",
+      "chunk_index": 46,
+      "doc_type": "judgements"
+    }
+  },
+  {
+    "id": "legal_principles_chunk_47",
+    "text": "Key Ruling: Under E-Commerce Rules 2020, marketplace platforms must have a grievance officer, display seller information, and ensure a fair return and refund policy. Platforms cannot disclaim liability for goods sold by third-party sellers on their platform if they facilitated the transaction.\nExam Relevance: High \u2014 E-Commerce Rules 2020 is new and frequently tested",
+    "metadata": {
+      "source": "legal_principles",
+      "chunk_index": 47,
+      "doc_type": "judgements"
+    }
+  },
+  {
+    "id": "legal_principles_chunk_48",
+    "text": "PRINCIPLE 25\nPrinciple: Consumers have the right to return goods purchased online and receive full refunds within the return window specified by the platform.\nLandmark Case: Bengaluru District Consumer Forum v Flipkart (various)\nRelevant Section: E-Commerce Rules 2020 Rule 6 | Section 2(9) CPA 2019",
+    "metadata": {
+      "source": "legal_principles",
+      "chunk_index": 48,
+      "doc_type": "judgements"
+    }
+  },
+  {
+    "id": "legal_principles_chunk_49",
+    "text": "Key Ruling: E-commerce entities cannot impose unfair conditions on returns and refunds. Refusing to accept returns of defective goods or imposing unjustified conditions on refund processing constitutes deficiency in service.\nExam Relevance: High",
+    "metadata": {
+      "source": "legal_principles",
+      "chunk_index": 49,
+      "doc_type": "judgements"
+    }
+  },
+  {
+    "id": "legal_principles_chunk_50",
+    "text": "SECTION 8 \u2014 COMPENSATION AND RELIEF\n-------------------------------------",
+    "metadata": {
+      "source": "legal_principles",
+      "chunk_index": 50,
+      "doc_type": "judgements"
+    }
+  },
+  {
+    "id": "legal_principles_chunk_51",
+    "text": "PRINCIPLE 26\nPrinciple: Compensation under consumer law includes not just the value of goods but also mental agony, harassment, litigation costs, and punitive damages.\nLandmark Case: Lucknow Development Authority v M K Gupta (1994) 1 SCC 243\nRelevant Section: Section 39 Consumer Protection Act 2019",
+    "metadata": {
+      "source": "legal_principles",
+      "chunk_index": 51,
+      "doc_type": "judgements"
+    }
+  },
+  {
+    "id": "legal_principles_chunk_52",
+    "text": "Key Ruling: Consumer forums can award compensation for mental agony and suffering in addition to the value of defective goods or services. Punitive damages can be awarded in cases of gross negligence or deliberate deficiency to deter future misconduct.\nExam Relevance: Very High",
+    "metadata": {
+      "source": "legal_principles",
+      "chunk_index": 52,
+      "doc_type": "judgements"
+    }
+  },
+  {
+    "id": "legal_principles_chunk_53",
+    "text": "PRINCIPLE 27\nPrinciple: Punitive damages should be awarded when the service provider's conduct is deliberate, wilful, or grossly negligent.\nLandmark Case: Ghaziabad Development Authority v Balbir Singh (2004) 5 SCC 65\nRelevant Section: Section 39(1)(d) Consumer Protection Act 2019\nKey Ruling: Consumer forums have power to award punitive compensation beyond actual loss. The quantum of punitive damages must be proportionate to the nature of misconduct and the financial capacity of the opposite party.",
+    "metadata": {
+      "source": "legal_principles",
+      "chunk_index": 53,
+      "doc_type": "judgements"
+    }
+  },
+  {
+    "id": "legal_principles_chunk_54",
+    "text": "Exam Relevance: High",
+    "metadata": {
+      "source": "legal_principles",
+      "chunk_index": 54,
+      "doc_type": "judgements"
+    }
+  },
+  {
+    "id": "legal_principles_chunk_55",
+    "text": "PRINCIPLE 28\nPrinciple: Interest on the amount due to the consumer can be awarded from the date of the transaction.\nLandmark Case: DLF Homes Panchkula v D S Dhanda (2020)\nRelevant Section: Section 39(1) Consumer Protection Act 2019\nKey Ruling: Where builders delay possession, consumers are entitled to interest on deposited amounts from the date of deposit until actual possession or refund. The standard rate applied by NCDRC is 9 percent per annum for residential property disputes.\nExam Relevance: High",
+    "metadata": {
+      "source": "legal_principles",
+      "chunk_index": 55,
+      "doc_type": "judgements"
+    }
+  },
+  {
+    "id": "legal_principles_chunk_56",
+    "text": "SECTION 9 \u2014 LIMITATION AND PROCEDURE\n-------------------------------------",
+    "metadata": {
+      "source": "legal_principles",
+      "chunk_index": 56,
+      "doc_type": "judgements"
+    }
+  },
+  {
+    "id": "legal_principles_chunk_57",
+    "text": "PRINCIPLE 29\nPrinciple: A consumer complaint must be filed within two years from the date the cause of action arose.\nLandmark Case: State Bank of India v B S Agricultural Industries (2009) 5 SCC 121\nRelevant Section: Section 69 Consumer Protection Act 2019",
+    "metadata": {
+      "source": "legal_principles",
+      "chunk_index": 57,
+      "doc_type": "judgements"
+    }
+  },
+  {
+    "id": "legal_principles_chunk_58",
+    "text": "Key Ruling: The limitation period for filing a consumer complaint is two years. However, the forum can condone delay if sufficient cause is shown. The date of cause of action is when the consumer first became aware of the deficiency, not the date of purchase.\nExam Relevance: Very High \u2014 limitation is a standard exam topic",
+    "metadata": {
+      "source": "legal_principles",
+      "chunk_index": 58,
+      "doc_type": "judgements"
+    }
+  },
+  {
+    "id": "legal_principles_chunk_59",
+    "text": "PRINCIPLE 30\nPrinciple: The burden of proof in consumer cases is on the complainant to establish deficiency, but once established, the burden shifts to the opposite party.\nLandmark Case: Ravneet Singh Bagga v KLM Royal Dutch Airlines (2000) 1 SCC 66\nRelevant Section: Section 38 Consumer Protection Act 2019",
+    "metadata": {
+      "source": "legal_principles",
+      "chunk_index": 59,
+      "doc_type": "judgements"
+    }
+  },
+  {
+    "id": "legal_principles_chunk_60",
+    "text": "Key Ruling: The complainant must establish a prima facie case of deficiency. Once established, the service provider must rebut the presumption. In cases involving technical expertise, expert evidence may be required.\nExam Relevance: High",
+    "metadata": {
+      "source": "legal_principles",
+      "chunk_index": 60,
+      "doc_type": "judgements"
+    }
+  },
+  {
+    "id": "legal_principles_chunk_61",
+    "text": "SECTION 10 \u2014 CENTRAL CONSUMER PROTECTION AUTHORITY\n-------------------------------------",
+    "metadata": {
+      "source": "legal_principles",
+      "chunk_index": 61,
+      "doc_type": "judgements"
+    }
+  },
+  {
+    "id": "legal_principles_chunk_62",
+    "text": "PRINCIPLE 31\nPrinciple: The Central Consumer Protection Authority has suo motu powers to investigate unfair trade practices and misleading advertisements.\nLandmark Case: CCPA Guidelines on Misleading Advertisements 2022\nRelevant Section: Section 10-27 Consumer Protection Act 2019",
+    "metadata": {
+      "source": "legal_principles",
+      "chunk_index": 62,
+      "doc_type": "judgements"
+    }
+  },
+  {
+    "id": "legal_principles_chunk_63",
+    "text": "Key Ruling: The CCPA established under CPA 2019 can initiate investigations without a consumer complaint. It can issue safety notices, recall products, impose penalties up to rupees ten lakhs for misleading advertisements, and prohibit endorsers from endorsing products for up to one year.\nExam Relevance: Very High \u2014 CCPA is new under CPA 2019 and heavily tested",
+    "metadata": {
+      "source": "legal_principles",
+      "chunk_index": 63,
+      "doc_type": "judgements"
+    }
+  },
+  {
+    "id": "legal_principles_chunk_64",
+    "text": "PRINCIPLE 32\nPrinciple: Celebrity endorsers are liable for misleading advertisements if they endorsed a product without due diligence.\nLandmark Case: CCPA Guidelines 2022 on endorsements\nRelevant Section: Section 21 Consumer Protection Act 2019\nKey Ruling: Endorsers of misleading advertisements can be penalised up to rupees ten lakhs and prohibited from endorsing products for up to three years for repeat offences. Due diligence requires the endorser to verify claims made in the advertisement.",
+    "metadata": {
+      "source": "legal_principles",
+      "chunk_index": 64,
+      "doc_type": "judgements"
+    }
+  },
+  {
+    "id": "legal_principles_chunk_65",
+    "text": "Exam Relevance: High \u2014 new provision unique to CPA 2019",
+    "metadata": {
+      "source": "legal_principles",
+      "chunk_index": 65,
+      "doc_type": "judgements"
+    }
+  },
+  {
+    "id": "legal_principles_chunk_66",
+    "text": "SECTION 11 \u2014 LEGAL METROLOGY\n-------------------------------------",
+    "metadata": {
+      "source": "legal_principles",
+      "chunk_index": 66,
+      "doc_type": "judgements"
+    }
+  },
+  {
+    "id": "legal_principles_chunk_67",
+    "text": "PRINCIPLE 33\nPrinciple: Every packaged commodity must display the name and address of manufacturer, net quantity, month and year of manufacture, MRP inclusive of taxes, and consumer care details.\nLandmark Case: Various Legal Metrology enforcement actions\nRelevant Section: Rule 6 Legal Metrology (Packaged Commodities) Rules 2011",
+    "metadata": {
+      "source": "legal_principles",
+      "chunk_index": 67,
+      "doc_type": "judgements"
+    }
+  },
+  {
+    "id": "legal_principles_chunk_68",
+    "text": "Key Ruling: Non-display of mandatory declarations on packages is an offence under Legal Metrology Act. Manufacturers and packers are primarily liable. Retailers selling non-compliant packages are also liable if they had knowledge of non-compliance.\nExam Relevance: High",
+    "metadata": {
+      "source": "legal_principles",
+      "chunk_index": 68,
+      "doc_type": "judgements"
+    }
+  },
+  {
+    "id": "legal_principles_chunk_69",
+    "text": "PRINCIPLE 34\nPrinciple: Selling packaged goods with quantity less than declared on the package is an offence regardless of intent.\nLandmark Case: State of Gujarat v Mirzapur Moti Kureshi Kassab Jamat (applied in metrology context)\nRelevant Section: Section 18 Legal Metrology Act 2009",
+    "metadata": {
+      "source": "legal_principles",
+      "chunk_index": 69,
+      "doc_type": "judgements"
+    }
+  },
+  {
+    "id": "legal_principles_chunk_70",
+    "text": "Key Ruling: Short measurement or short weight is a strict liability offence under Legal Metrology Act. The prosecution need not prove intent or knowledge. The manufacturer or packer is liable for ensuring declared quantity matches actual quantity within permitted tolerances.\nExam Relevance: Medium",
+    "metadata": {
+      "source": "legal_principles",
+      "chunk_index": 70,
+      "doc_type": "judgements"
+    }
+  },
+  {
+    "id": "legal_principles_chunk_71",
+    "text": "SECTION 12 \u2014 MEDIATION UNDER CPA 2019\n-------------------------------------",
+    "metadata": {
+      "source": "legal_principles",
+      "chunk_index": 71,
+      "doc_type": "judgements"
+    }
+  },
+  {
+    "id": "legal_principles_chunk_72",
+    "text": "PRINCIPLE 35\nPrinciple: Mediation under CPA 2019 is voluntary and settlement reached through mediation is final and binding.\nLandmark Case: Not yet judicially settled \u2014 based on Consumer Protection (Mediation) Rules 2020\nRelevant Section: Section 37-38 Consumer Protection Act 2019 | Mediation Rules 2020",
+    "metadata": {
+      "source": "legal_principles",
+      "chunk_index": 72,
+      "doc_type": "judgements"
+    }
+  },
+  {
+    "id": "legal_principles_chunk_73",
+    "text": "Key Ruling: Consumer forums must refer disputes to mediation where early settlement is possible. Mediation is conducted by empanelled mediators. A settlement reached through mediation is deemed a decree of the consumer forum. If mediation fails, the dispute proceeds to adjudication.\nExam Relevance: High \u2014 mediation is a new feature of CPA 2019",
+    "metadata": {
+      "source": "legal_principles",
+      "chunk_index": 73,
+      "doc_type": "judgements"
+    }
+  },
+  {
+    "id": "legal_principles_chunk_74",
+    "text": "SECTION 13 \u2014 HOUSING AND REAL ESTATE\n-------------------------------------",
+    "metadata": {
+      "source": "legal_principles",
+      "chunk_index": 74,
+      "doc_type": "judgements"
+    }
+  },
+  {
+    "id": "legal_principles_chunk_75",
+    "text": "PRINCIPLE 36\nPrinciple: Housing boards and development authorities performing commercial activities are service providers under consumer law.\nLandmark Case: Lucknow Development Authority v M K Gupta (1994) 1 SCC 243\nRelevant Section: Section 2(42) Consumer Protection Act 2019",
+    "metadata": {
+      "source": "legal_principles",
+      "chunk_index": 75,
+      "doc_type": "judgements"
+    }
+  },
+  {
+    "id": "legal_principles_chunk_76",
+    "text": "Key Ruling: Even statutory bodies like development authorities that allot housing plots or flats for consideration are service providers. Their failure to deliver possession, provide amenities, or complete development work constitutes deficiency in service.\nExam Relevance: Very High",
+    "metadata": {
+      "source": "legal_principles",
+      "chunk_index": 76,
+      "doc_type": "judgements"
+    }
+  },
+  {
+    "id": "legal_principles_chunk_77",
+    "text": "PRINCIPLE 37\nPrinciple: A builder cannot forfeit the entire deposited amount for cancellation of a flat booking \u2014 it constitutes unfair trade practice.\nLandmark Case: DLF Ltd v Mridul Estate Private Ltd\nRelevant Section: Section 2(47) Consumer Protection Act 2019\nKey Ruling: Forfeiture of deposited amounts without reasonable justification and beyond actual losses is an unreasonable contract term and unfair trade practice. Consumer forums can direct refund of the forfeited amount with interest.",
+    "metadata": {
+      "source": "legal_principles",
+      "chunk_index": 77,
+      "doc_type": "judgements"
+    }
+  },
+  {
+    "id": "legal_principles_chunk_78",
+    "text": "Exam Relevance: High",
+    "metadata": {
+      "source": "legal_principles",
+      "chunk_index": 78,
+      "doc_type": "judgements"
+    }
+  },
+  {
+    "id": "legal_principles_chunk_79",
+    "text": "SECTION 14 \u2014 TELECOM AND UTILITY SERVICES\n-------------------------------------",
+    "metadata": {
+      "source": "legal_principles",
+      "chunk_index": 79,
+      "doc_type": "judgements"
+    }
+  },
+  {
+    "id": "legal_principles_chunk_80",
+    "text": "PRINCIPLE 38\nPrinciple: Telecom companies charging for services not rendered or continuing to charge after disconnection constitutes deficiency in service.\nLandmark Case: BSNL v Harbhajan Singh\nRelevant Section: Section 2(11) Consumer Protection Act 2019\nKey Ruling: Telecom service providers are service providers under consumer law. Billing disputes, wrongful disconnection, and failure to provide contracted services are actionable deficiencies. TRAI regulations do not exclude consumer forum jurisdiction.",
+    "metadata": {
+      "source": "legal_principles",
+      "chunk_index": 80,
+      "doc_type": "judgements"
+    }
+  },
+  {
+    "id": "legal_principles_chunk_81",
+    "text": "Exam Relevance: Medium",
+    "metadata": {
+      "source": "legal_principles",
+      "chunk_index": 81,
+      "doc_type": "judgements"
+    }
+  },
+  {
+    "id": "legal_principles_chunk_82",
+    "text": "PRINCIPLE 39\nPrinciple: Internet service providers failing to provide contracted speeds or experiencing repeated outages are liable for deficiency in service.\nLandmark Case: Various District Consumer Forum rulings on ISP services\nRelevant Section: Section 2(11) Consumer Protection Act 2019",
+    "metadata": {
+      "source": "legal_principles",
+      "chunk_index": 82,
+      "doc_type": "judgements"
+    }
+  },
+  {
+    "id": "legal_principles_chunk_83",
+    "text": "Key Ruling: Broadband and internet service contracts are service contracts under consumer law. Persistent failure to deliver contracted speeds or repeated outages entitle consumers to proportionate refund and compensation.\nExam Relevance: Medium",
+    "metadata": {
+      "source": "legal_principles",
+      "chunk_index": 83,
+      "doc_type": "judgements"
+    }
+  },
+  {
+    "id": "legal_principles_chunk_84",
+    "text": "SECTION 15 \u2014 FOOD AND PRODUCT SAFETY\n-------------------------------------",
+    "metadata": {
+      "source": "legal_principles",
+      "chunk_index": 84,
+      "doc_type": "judgements"
+    }
+  },
+  {
+    "id": "legal_principles_chunk_85",
+    "text": "PRINCIPLE 40\nPrinciple: Selling adulterated or sub-standard food products constitutes both deficiency in service and an unfair trade practice under consumer law.\nLandmark Case: Britannia Industries v Consumer Forum Delhi\nRelevant Section: Section 2(47) CPA 2019 | Section 2(11) CPA 2019",
+    "metadata": {
+      "source": "legal_principles",
+      "chunk_index": 85,
+      "doc_type": "judgements"
+    }
+  },
+  {
+    "id": "legal_principles_chunk_86",
+    "text": "Key Ruling: Food manufacturers are strictly liable for the quality and safety of their products. Finding foreign objects, adulteration, or products below declared standards entitles consumers to compensation beyond mere replacement. Consumer forums can award exemplary damages in food safety cases.\nExam Relevance: High",
+    "metadata": {
+      "source": "legal_principles",
+      "chunk_index": 86,
+      "doc_type": "judgements"
+    }
+  },
+  {
+    "id": "legal_principles_chunk_87",
+    "text": "PRINCIPLE 41\nPrinciple: A consumer can claim compensation for physical injury caused by a defective product under product liability provisions of CPA 2019.\nLandmark Case: Various NCDRC product liability rulings post 2019\nRelevant Section: Section 82-87 Consumer Protection Act 2019",
+    "metadata": {
+      "source": "legal_principles",
+      "chunk_index": 87,
+      "doc_type": "judgements"
+    }
+  },
+  {
+    "id": "legal_principles_chunk_88",
+    "text": "Key Ruling: CPA 2019 introduced strict product liability. A consumer suffering harm due to a product defect need not prove negligence \u2014 only the existence of defect and causation of harm. Manufacturers, sellers, and service providers in the product chain can all be held jointly and severally liable.\nExam Relevance: Very High \u2014 product liability chapter is unique to CPA 2019",
+    "metadata": {
+      "source": "legal_principles",
+      "chunk_index": 88,
+      "doc_type": "judgements"
+    }
+  },
+  {
+    "id": "legal_principles_chunk_89",
+    "text": "SECTION 16 \u2014 RIGHTS OF CONSUMERS\n-------------------------------------",
+    "metadata": {
+      "source": "legal_principles",
+      "chunk_index": 89,
+      "doc_type": "judgements"
+    }
+  },
+  {
+    "id": "legal_principles_chunk_90",
+    "text": "PRINCIPLE 42\nPrinciple: The right to be informed is a fundamental consumer right \u2014 consumers must be given complete and accurate information about goods and services.\nLandmark Case: Consumer Education and Research Centre v Union of India (1995) 3 SCC 42\nRelevant Section: Section 2(9) Consumer Protection Act 2019",
+    "metadata": {
+      "source": "legal_principles",
+      "chunk_index": 90,
+      "doc_type": "judgements"
+    }
+  },
+  {
+    "id": "legal_principles_chunk_91",
+    "text": "Key Ruling: The Supreme Court held that consumer rights including the right to information, right to safety, and right to be heard are part of the right to life under Article 21 of the Constitution. Consumer protection has a constitutional foundation beyond statutory rights.\nExam Relevance: Very High \u2014 constitutional basis of consumer rights",
+    "metadata": {
+      "source": "legal_principles",
+      "chunk_index": 91,
+      "doc_type": "judgements"
+    }
+  },
+  {
+    "id": "legal_principles_chunk_92",
+    "text": "PRINCIPLE 43\nPrinciple: Right to safety includes protection from hazardous goods \u2014 manufacturers must warn consumers of known risks.\nLandmark Case: Consumer Education and Research Centre v Union of India (1995)\nRelevant Section: Section 2(9)(i) Consumer Protection Act 2019\nKey Ruling: Manufacturers of hazardous products like asbestos, chemicals, and pharmaceuticals have a duty to warn consumers of risks. Failure to provide adequate safety warnings constitutes deficiency and unfair trade practice.",
+    "metadata": {
+      "source": "legal_principles",
+      "chunk_index": 92,
+      "doc_type": "judgements"
+    }
+  },
+  {
+    "id": "legal_principles_chunk_93",
+    "text": "Exam Relevance: High",
+    "metadata": {
+      "source": "legal_principles",
+      "chunk_index": 93,
+      "doc_type": "judgements"
+    }
+  },
+  {
+    "id": "legal_principles_chunk_94",
+    "text": "SECTION 17 \u2014 APPEALS AND HIERARCHY\n-------------------------------------",
+    "metadata": {
+      "source": "legal_principles",
+      "chunk_index": 94,
+      "doc_type": "judgements"
+    }
+  },
+  {
+    "id": "legal_principles_chunk_95",
+    "text": "PRINCIPLE 44\nPrinciple: Appeals from District Commission lie to State Commission, from State Commission to NCDRC, and from NCDRC to Supreme Court.\nLandmark Case: General Motors India v Ashok Ramnik Lal Tolat (2015) 1 SCC 429\nRelevant Section: Section 41, 51, 67 Consumer Protection Act 2019",
+    "metadata": {
+      "source": "legal_principles",
+      "chunk_index": 95,
+      "doc_type": "judgements"
+    }
+  },
+  {
+    "id": "legal_principles_chunk_96",
+    "text": "Key Ruling: The consumer dispute redressal hierarchy is District Commission, State Commission, NCDRC, and Supreme Court. Appeals must be filed within 45 days of the order. Pre-deposit of 50 percent of award amount is required for appeals against District and State Commission orders.\nExam Relevance: Very High \u2014 appellate procedure is standard exam topic",
+    "metadata": {
+      "source": "legal_principles",
+      "chunk_index": 96,
+      "doc_type": "judgements"
+    }
+  },
+  {
+    "id": "legal_principles_chunk_97",
+    "text": "PRINCIPLE 45\nPrinciple: Pre-deposit of 50 percent of the awarded amount is mandatory for filing an appeal against a consumer forum order.\nLandmark Case: Rajendra Prasad Gupta v Prakash Chandra Mishra\nRelevant Section: Section 41(2), 51(1) Consumer Protection Act 2019\nKey Ruling: To discourage frivolous appeals, CPA 2019 mandates pre-deposit of 50 percent of the decretal amount as a condition for maintainability of an appeal. This requirement applies to both State Commission and NCDRC appeals.",
+    "metadata": {
+      "source": "legal_principles",
+      "chunk_index": 97,
+      "doc_type": "judgements"
+    }
+  },
+  {
+    "id": "legal_principles_chunk_98",
+    "text": "Exam Relevance: High",
+    "metadata": {
+      "source": "legal_principles",
+      "chunk_index": 98,
+      "doc_type": "judgements"
+    }
+  },
+  {
+    "id": "legal_principles_chunk_99",
+    "text": "SECTION 18 \u2014 MISCELLANEOUS IMPORTANT PRINCIPLES\n-------------------------------------",
+    "metadata": {
+      "source": "legal_principles",
+      "chunk_index": 99,
+      "doc_type": "judgements"
+    }
+  },
+  {
+    "id": "legal_principles_chunk_100",
+    "text": "PRINCIPLE 46\nPrinciple: Consumer Protection Act is a beneficial legislation and must be interpreted liberally in favour of the consumer.\nLandmark Case: Secretary Thirumurugan Co-op Society v M Lalitha (2004) 1 SCC 305\nRelevant Section: Preamble, Consumer Protection Act 2019\nKey Ruling: As a welfare legislation enacted for the benefit of consumers, the CPA must receive a broad, liberal construction. Technical objections should not be allowed to defeat the substantive rights of consumers.",
+    "metadata": {
+      "source": "legal_principles",
+      "chunk_index": 100,
+      "doc_type": "judgements"
+    }
+  },
+  {
+    "id": "legal_principles_chunk_101",
+    "text": "Exam Relevance: Very High \u2014 interpretive principle applicable across all topics",
+    "metadata": {
+      "source": "legal_principles",
+      "chunk_index": 101,
+      "doc_type": "judgements"
+    }
+  },
+  {
+    "id": "legal_principles_chunk_102",
+    "text": "PRINCIPLE 47\nPrinciple: Service rendered free of charge or under a contract of personal service is excluded from consumer protection.\nLandmark Case: Revision Petition cases before NCDRC on free services\nRelevant Section: Section 2(42) Consumer Protection Act 2019",
+    "metadata": {
+      "source": "legal_principles",
+      "chunk_index": 102,
+      "doc_type": "judgements"
+    }
+  },
+  {
+    "id": "legal_principles_chunk_103",
+    "text": "Key Ruling: Services provided without any consideration \u2014 whether direct payment or indirect \u2014 do not qualify as services under consumer law. Government hospitals providing free treatment and charitable services are excluded. However, insurance covered medical treatment qualifies as paid service.\nExam Relevance: High",
+    "metadata": {
+      "source": "legal_principles",
+      "chunk_index": 103,
+      "doc_type": "judgements"
+    }
+  },
+  {
+    "id": "legal_principles_chunk_104",
+    "text": "PRINCIPLE 48\nPrinciple: A complaint can be filed by a consumer, registered consumer association, Central or State Government, or a group of consumers with the same interest.\nLandmark Case: Consumer Education and Research Centre v Union of India (1995)\nRelevant Section: Section 35 Consumer Protection Act 2019",
+    "metadata": {
+      "source": "legal_principles",
+      "chunk_index": 104,
+      "doc_type": "judgements"
+    }
+  },
+  {
+    "id": "legal_principles_chunk_105",
+    "text": "Key Ruling: Consumer law enables class action complaints where multiple consumers are affected by the same deficiency or unfair practice. Representative complaints by consumer associations have been the basis of systemic reforms in several industries.\nExam Relevance: High",
+    "metadata": {
+      "source": "legal_principles",
+      "chunk_index": 105,
+      "doc_type": "judgements"
+    }
+  },
+  {
+    "id": "legal_principles_chunk_106",
+    "text": "PRINCIPLE 49\nPrinciple: E-filing of consumer complaints is permitted and consumer forums can conduct proceedings via video conferencing.\nLandmark Case: Post CPA 2019 procedural reforms\nRelevant Section: Section 35(1), 38(6) Consumer Protection Act 2019\nKey Ruling: CPA 2019 modernised consumer dispute resolution by enabling electronic filing of complaints and video conferencing hearings. The edaakhil portal (edaakhil.nic.in) enables online filing of consumer complaints across all forums in India.",
+    "metadata": {
+      "source": "legal_principles",
+      "chunk_index": 106,
+      "doc_type": "judgements"
+    }
+  },
+  {
+    "id": "legal_principles_chunk_107",
+    "text": "Exam Relevance: High \u2014 procedural modernisation under CPA 2019",
+    "metadata": {
+      "source": "legal_principles",
+      "chunk_index": 107,
+      "doc_type": "judgements"
+    }
+  },
+  {
+    "id": "legal_principles_chunk_108",
+    "text": "PRINCIPLE 50\nPrinciple: Opposite party must respond to a consumer complaint within 30 days \u2014 failure to respond within time allows the forum to proceed ex parte.\nLandmark Case: Standard procedural principle across consumer forums\nRelevant Section: Section 38(2) Consumer Protection Act 2019",
+    "metadata": {
+      "source": "legal_principles",
+      "chunk_index": 108,
+      "doc_type": "judgements"
+    }
+  },
+  {
+    "id": "legal_principles_chunk_109",
+    "text": "Key Ruling: Upon admission of a complaint, the opposite party is given 30 days to file a response. An extension of 15 days may be granted for sufficient cause. If no response is filed, the forum proceeds ex parte based on the complaint and evidence of the complainant alone.\nExam Relevance: Medium",
+    "metadata": {
+      "source": "legal_principles",
+      "chunk_index": 109,
+      "doc_type": "judgements"
+    }
+  },
+  {
+    "id": "legal_principles_chunk_110",
+    "text": "PRINCIPLE 51\n\nPrinciple: Consumer forums must award compensation based not only on pecuniary loss but also on pain, suffering, disability, mental agony, and the conduct of the service provider. Compensation should serve both compensatory and deterrent purposes.\n\nLandmark Case: Charan Singh v Healing Touch Hospital\n\nRelevant Section: Section 39 Consumer Protection Act 2019",
+    "metadata": {
+      "source": "legal_principles",
+      "chunk_index": 110,
+      "doc_type": "judgements"
+    }
+  },
+  {
+    "id": "legal_principles_chunk_111",
+    "text": "Key Ruling: The Supreme Court held that consumer compensation cannot be determined solely on the basis of salary or direct financial loss. Consumer forums must consider physical suffering, long-term disability, mental agony, medical expenses, loss of livelihood, and the nature of negligence committed by the service provider. Compensation under consumer law must not only recompense the victim but also encourage accountability and improvement in service standards",
+    "metadata": {
+      "source": "legal_principles",
+      "chunk_index": 111,
+      "doc_type": "judgements"
+    }
+  },
+  {
+    "id": "legal_principles_chunk_112",
+    "text": ". The Court also emphasized that consumer forums must provide reasoned orders and dispose of complaints expeditiously to preserve the objective of summary consumer justice.",
+    "metadata": {
+      "source": "legal_principles",
+      "chunk_index": 112,
+      "doc_type": "judgements"
+    }
+  },
+  {
+    "id": "legal_principles_chunk_113",
+    "text": "Exam Relevance: Very High \u2014 landmark authority on compensation jurisprudence and consumer forum accountability\n\n---\n\nPRINCIPLE 52\n\nPrinciple: A manufacturer is liable for deficiency in service where defects in a vehicle persist during the warranty period and reasonable corrective measures are not effectively provided to the consumer.\n\nLandmark Case: Maruti Udyog Ltd v Susheel Kumar Gabgotra\n\nRelevant Section: Section 2(11) and Section 39 Consumer Protection Act 2019",
+    "metadata": {
+      "source": "legal_principles",
+      "chunk_index": 113,
+      "doc_type": "judgements"
+    }
+  },
+  {
+    "id": "legal_principles_chunk_114",
+    "text": "Key Ruling: The Supreme Court held that automobile manufacturers and authorised dealers are obligated to properly address defects reported during the warranty period. Although warranty clauses may restrict remedies to repair or replacement of defective parts, persistent failure to rectify defects and inconvenience caused to the consumer can justify compensation for harassment, mental agony, litigation costs, and consequential losses",
+    "metadata": {
+      "source": "legal_principles",
+      "chunk_index": 114,
+      "doc_type": "judgements"
+    }
+  },
+  {
+    "id": "legal_principles_chunk_115",
+    "text": ". Refusal or delay in effectively resolving recurring defects constitutes deficiency in service.",
+    "metadata": {
+      "source": "legal_principles",
+      "chunk_index": 115,
+      "doc_type": "judgements"
+    }
+  },
+  {
+    "id": "legal_principles_chunk_116",
+    "text": "Exam Relevance: High \u2014 important case on automobile defects, warranty obligations, and consumer compensation\n\n---\n\nPRINCIPLE 53\n\nPrinciple: Delay caused by an insurance company in processing or investigating a claim cannot be used to defeat the consumer\u2019s claim on limitation grounds. Continuing correspondence and claim processing may constitute a continuing cause of action.\n\nLandmark Case: National Insurance Co Ltd v Hindustan Safety Glass Works Ltd",
+    "metadata": {
+      "source": "legal_principles",
+      "chunk_index": 116,
+      "doc_type": "judgements"
+    }
+  },
+  {
+    "id": "legal_principles_chunk_117",
+    "text": "Relevant Section: Section 69 Consumer Protection Act 2019",
+    "metadata": {
+      "source": "legal_principles",
+      "chunk_index": 117,
+      "doc_type": "judgements"
+    }
+  },
+  {
+    "id": "legal_principles_chunk_118",
+    "text": "Key Ruling: The Supreme Court held that where an insured consumer files a claim within time and the insurer itself causes prolonged delay through surveys, investigations, or delayed repudiation, the insurer cannot subsequently reject the complaint as time-barred. Consumer protection law must be interpreted pragmatically and beneficially in favour of consumers",
+    "metadata": {
+      "source": "legal_principles",
+      "chunk_index": 118,
+      "doc_type": "judgements"
+    }
+  },
+  {
+    "id": "legal_principles_chunk_119",
+    "text": ". Delay attributable to the insurer extends the continuing cause of action and limitation provisions should not be applied rigidly to prejudice consumers.",
+    "metadata": {
+      "source": "legal_principles",
+      "chunk_index": 119,
+      "doc_type": "judgements"
+    }
+  },
+  {
+    "id": "legal_principles_chunk_120",
+    "text": "Exam Relevance: Very High \u2014 major authority on limitation, insurance disputes, and continuing cause of action under consumer law\n\n---\n\nPRINCIPLE 54\n\nPrinciple: Medical services provided under statutory insurance schemes such as the Employees\u2019 State Insurance Scheme constitute \u201cservice\u201d under consumer law because contributions are paid by employees and employers.\n\nLandmark Case: Kishore Lal v Chairman ESI Corporation\n\nRelevant Section: Section 2(7) and Section 2(42) Consumer Protection Act 2019",
+    "metadata": {
+      "source": "legal_principles",
+      "chunk_index": 120,
+      "doc_type": "judgements"
+    }
+  },
+  {
+    "id": "legal_principles_chunk_121",
+    "text": "Key Ruling: The Supreme Court held that treatment provided in ESI hospitals and dispensaries is not gratuitous because the medical services are funded through mandatory insurance contributions deducted from employees and paid by employers. Therefore, beneficiaries under the ESI scheme are consumers and can approach consumer forums for medical negligence and deficiency in service",
+    "metadata": {
+      "source": "legal_principles",
+      "chunk_index": 121,
+      "doc_type": "judgements"
+    }
+  },
+  {
+    "id": "legal_principles_chunk_122",
+    "text": ". The Court further held that the jurisdiction of consumer forums is not barred merely because alternate statutory remedies exist under the Employees\u2019 State Insurance Act.",
+    "metadata": {
+      "source": "legal_principles",
+      "chunk_index": 122,
+      "doc_type": "judgements"
+    }
+  },
+  {
+    "id": "legal_principles_chunk_123",
+    "text": "Exam Relevance: Very High \u2014 landmark authority on medical services under insurance schemes and concurrent jurisdiction of consumer forums\n================================================\nEND OF LEGAL PRINCIPLES DOCUMENT\nTotal Principles: 50\nCoverage: CPA 2019 | E-Commerce Rules 2020 | Legal Metrology Act 2009 | Mediation Rules 2020\nLast Updated: 2024\n================================================",
+    "metadata": {
+      "source": "legal_principles",
+      "chunk_index": 123,
+      "doc_type": "judgements"
+    }
+  }
+]
