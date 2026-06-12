@@ -1,8 +1,0 @@
- [global]
-showWarningOnDirectExecution = false
-
-[server]
-headless = true
-
-[browser]
-gatherUsageStats = false
