@@ -10,3 +10,6 @@ data/metadata/
 venv/
 data/
 .streamlit/
+venv/
+data/
+.streamlit/
